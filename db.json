@@ -9,8 +9,8 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "demo": [
-    { "id" : 1 ,"name": "praveen" },
-    ]
+    { "id" : 1 ,"name": "praveen" }
+    ],
   "profile": {
     "name": "typicode"
   }
